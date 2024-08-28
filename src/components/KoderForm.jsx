@@ -74,7 +74,7 @@ export default function KoderForm(props) {
 
       <input
         type="text"
-        placeholder="Github user"
+        placeholder="Github user example: arturo25081998"
         className={clsx("border border-blue-500 rounded p-2 w-full", {
           "bg-red-500/10 border border-red-500": errors.user,
         })}
