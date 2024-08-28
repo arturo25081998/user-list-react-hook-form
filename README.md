@@ -1,8 +1,22 @@
-# React + Vite
+# Github User list
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicacion en react que te permite agregar usuarios de GitHub en tiempo real a una lista, los datos son mostrados en tarjetas de usuario.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js**: Framework de JavaScript para construir la interfaz de usuario.
+- **Tailwind**: Estilos personalizados para la aplicacion creada.
+- **React Hook Form**: Manejo de formularios con react.
+- **clsx**: Implementacion de clases condiciones.
+
+## Get started
+
+Para poder usar este repositorio sigue los siguientes pasos
+
+1. Descargar este repositorio.
+2. Desplegar tu servidor con en modo desarrollo o modo produccion con uno de los siguientes comandos
+
+```bash
+npm start -> Producción
+npm run dev -> Desarrollo
+```
